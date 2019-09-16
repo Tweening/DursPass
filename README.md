@@ -1,10 +1,10 @@
-## sysPass - Systems Password Manager
+## DursPass - Systems Password Manager
 
-[![Build Status](https://travis-ci.org/nuxsmin/sysPass.svg?branch=master)](https://travis-ci.org/nuxsmin/sysPass)  [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/nuxsmin/sysPass/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/nuxsmin/sysPass/?branch=master)
+[![Build Status](https://travis-ci.org/nuxsmin/DursPass.svg?branch=master)](https://travis-ci.org/nuxsmin/DursPass)  [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/nuxsmin/DursPass/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/nuxsmin/DursPass/?branch=master)
 
-[![Average time to resolve an issue](http://isitmaintained.com/badge/resolution/nuxsmin/sysPass.svg)](http://isitmaintained.com/project/nuxsmin/sysPass "Average time to resolve an issue") [![Percentage of issues still open](http://isitmaintained.com/badge/open/nuxsmin/sysPass.svg)](http://isitmaintained.com/project/nuxsmin/sysPass "Percentage of issues still open")
+[![Average time to resolve an issue](http://isitmaintained.com/badge/resolution/nuxsmin/DursPass.svg)](http://isitmaintained.com/project/nuxsmin/DursPass "Average time to resolve an issue") [![Percentage of issues still open](http://isitmaintained.com/badge/open/nuxsmin/DursPass.svg)](http://isitmaintained.com/project/nuxsmin/DursPass "Percentage of issues still open")
 
-Join us in the Gitter chat room: [![Join the chat at https://gitter.im/sysPass/Lobby](https://badges.gitter.im/sysPass/Lobby.svg)](https://gitter.im/sysPass/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) 
+Join us in the Gitter chat room: [![Join the chat at https://gitter.im/DursPass/Lobby](https://badges.gitter.im/DursPass/Lobby.svg)](https://gitter.im/DursPass/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) 
 
 ---
 
@@ -21,7 +21,7 @@ PHP web based Password Manager for business and personal use.
 - [x] Multilanguage
 - [x] JSON-RPC API
 
-Installation instructions and documentation at Doc https://doc.syspass.org
+Installation instructions and documentation at Doc https://doc.DursPass.org
 
 ----
 
@@ -30,14 +30,14 @@ a copy on 'COPYING' file.
 
 ----
 
-https://syspass.org
+https://DursPass.org
 
-https://doc.syspass.org
+https://doc.DursPass.org
 
-https://github.com/nuxsmin/sysPass
+https://github.com/nuxsmin/DursPass
 
-https://hub.docker.com/r/nuxsmin/docker-syspass/
+https://hub.docker.com/r/nuxsmin/docker-DursPass/
 
 ---
 
-Though it would be preferable to ask or report issues through GitHub's website, you can reach me out by email (eg. CVEs, contribution, etc.): nuxsmin[a_t]syspass[d_o_t]org  
+Though it would be preferable to ask or report issues through GitHub's website, you can reach me out by email (eg. CVEs, contribution, etc.): nuxsmin[a_t]DursPass[d_o_t]org  
